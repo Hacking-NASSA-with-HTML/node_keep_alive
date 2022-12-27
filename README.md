@@ -25,3 +25,30 @@ Or recommend some good educational tutorial how to encode images directly into M
 thanks to [Nearly Perfect Mediocracy :smiley:](https://www.npmjs.com/package/node-fetch)
 
 ![](https://github.com/Hacking-NASSA-with-HTML/Array_iteration_cheatsheet/blob/main/star.gif)
+
+
+That's amazing, guys!
+
+That's REALLY amazing😎!
+
+Four servers are spinning simultaneously!
+
+Again! FOUR servers, guys!!!
+
+One server is on Railway, to ping that Second one on Render with Back-End, -
+
+"Do not sleep lazy azz"😂!
+
+The Third one keeps the Database.
+
+And the Fourth one is spinning a Front-End!
+
+Four servers to run one app!
+
+Unbelievable! Just Unbelievable!
+
+The Microverse community is Sooo Inspiring🎆!!!
+
+Thank you, guys! You are amazing❤️!
+
+May your code always works too 🍾🥂
