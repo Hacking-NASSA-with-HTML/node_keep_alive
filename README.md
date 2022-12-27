@@ -20,4 +20,8 @@ Appreciated:heart:.
 
 Or recommend some good educational tutorial how to encode images directly into MongoDB.
 
+## The challenge is Solved:raising_hand:!
+
 thanks to [Nearly Perfect Mediocracy :smiley:](https://www.npmjs.com/package/node-fetch)
+
+![](https://github.com/Hacking-NASSA-with-HTML/Array_iteration_cheatsheet/blob/main/star.gif)
