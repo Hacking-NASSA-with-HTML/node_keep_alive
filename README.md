@@ -51,4 +51,6 @@ The Microverse community is Sooo Inspiring🎆!!!
 
 Thank you, guys! You are amazing❤️!
 
-May your code always works too 🍾🥂
+May Your Code Always Works Too :champagne::clinking_glasses:
+
+![](https://github.com/Hacking-NASSA-with-HTML/keep-alive-server/blob/main/assets/happy-happy.gif)
